@@ -1,4 +1,4 @@
-# 📊 LLM Earnings Call Analyzer
+# LLM Earnings Call Analyzer
 
 AI-powered financial analysis tool that automatically analyzes earnings call transcripts and generates investment insights using Large Language Models.
 
