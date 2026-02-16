@@ -1,0 +1,15 @@
+# API Keys
+.env
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Reports (optional - you might want to commit sample reports)
+# earnings_report_*.txt
+
+# OS
+.DS_Store
