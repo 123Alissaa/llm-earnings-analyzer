@@ -1,0 +1,59 @@
+
+================================================================================
+EARNINGS CALL ANALYSIS REPORT WITH PRICE VALIDATION
+================================================================================
+Company: Coinbase Global, Inc. (COIN)
+Analysis Date: 2026-02-16 11:42
+================================================================================
+
+OVERALL SENTIMENT: 8/10
+The overall sentiment of the earnings call is bullish, driven by the company's diversified revenue streams, strong balance sheet, and growing market share. Management's tone is optimistic, highlighting the company's ability to continue investing and growing despite crypto price fluctuations. The launch of the Everything Exchange and the success of Base are also positives.
+
+MANAGEMENT TONE: OPTIMISTIC
+
+KEY FINANCIAL METRICS:
+- Revenue: 12 products doing over $100 million in annualized revenue, subscription and services revenue up 5.5x from the peak in 2021
+- EPS: not mentioned
+- Guidance: no specific guidance provided
+
+RISK FACTORS IDENTIFIED:
+  1. crypto price fluctuations
+  2. regulatory uncertainty
+  3. competition in the financial services industry
+
+INVESTMENT RECOMMENDATION: BUY
+
+RATIONALE:
+The company's diversified revenue streams, strong balance sheet, and growing market share make it an attractive investment opportunity. The launch of the Everything Exchange and the success of Base are also positives, and management's optimistic tone suggests continued growth and investment in the future.
+
+KEY MANAGEMENT QUOTES:
+  1. "We've successfully diversified the business where stablecoins, subscription and services revenue and now trading of other asset classes like stocks, prediction markets and commodities means our revenue is less correlated to crypto price fluctuations"
+  2. "Crypto is updating the financial system from trading to payments to lending, and Coinbase is the best positioned company in the world to capitalize on this transformation"
+  3. "We store more crypto than any other company, we're the most trusted brand in crypto, and we work with thousands of institutions, including 5 G-SIB banks and 150 government agencies"
+
+================================================================================
+SENTIMENT vs ACTUAL PRICE MOVEMENT VALIDATION
+================================================================================
+
+PREDICTIONS:
+- LLM Sentiment Score: 8/10 (Positive)
+- Sentiment Magnitude: 8.0
+
+ACTUAL RESULTS:
+- Stock Price Change: -10.25% (Down)
+- Pre-Earnings Price: $216.10
+- Post-Earnings Price: $193.96
+
+VALIDATION:
+- Alignment: MISALIGNED ✗
+- Assessment: Sentiment and price moved in opposite directions
+
+ACCURACY ANALYSIS:
+✗ The LLM prediction did not align with market reaction.
+  The model showed positive sentiment but the stock moved down.
+  This could indicate:
+    - Market had already priced in the news
+    - External market factors dominated
+    - Expectations vs reality mismatch
+
+================================================================================

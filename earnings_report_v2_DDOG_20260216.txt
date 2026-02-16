@@ -1,0 +1,61 @@
+
+================================================================================
+EARNINGS CALL ANALYSIS REPORT WITH PRICE VALIDATION
+================================================================================
+Company: Datadog Inc. (DDOG)
+Analysis Date: 2026-02-16 16:41
+================================================================================
+
+OVERALL SENTIMENT: 8/10
+The earnings call transcript indicates a strong performance by Datadog, with revenue and EPS exceeding consensus estimates. The company's ability to capitalize on market opportunities and usage optimization trends is a positive sign. However, the transcript also mentions risks and uncertainties that could affect actual results.
+
+MANAGEMENT TONE: CONFIDENT
+
+KEY FINANCIAL METRICS:
+- Revenue: $737.73 million (Q4 2024), $739.12 million (Q1 2025 estimate), $2,660.30 million (FY 2024), $2,684.28 million (FY 2024 actual), $3,240.88 million (FY 2025 estimate)
+- EPS: $0.49 (Q4 2024), $0.44 (Q1 2025 estimate), $1.77 (FY 2024), $1.82 (FY 2024 actual), $1.96 (FY 2025 estimate)
+- Guidance: FY 2025 revenue estimate of $3,240.88 million
+
+RISK FACTORS IDENTIFIED:
+  1. variety of risks and uncertainties that could cause actual results to differ materially
+  2. market opportunities and usage optimization trends
+  3. gross margins and operating margins risks
+  4. product capabilities risks
+  5. ability to capitalize on market opportunities risks
+
+INVESTMENT RECOMMENDATION: BUY
+
+RATIONALE:
+Datadog's strong performance and ability to exceed consensus estimates make it an attractive investment opportunity. The company's confidence in its ability to capitalize on market opportunities and usage optimization trends is a positive sign. However, investors should be aware of the risks and uncertainties mentioned in the transcript.
+
+KEY MANAGEMENT QUOTES:
+  1. "The words anticipate, believe, continue, estimate, expect, intend, will and similar expressions are intended to identify forward-looking statements or similar indications of future expectations."
+  2. "These statements reflect our views only as of today and are subject to a variety of risks and uncertainties that could cause actual results to differ materially."
+  3. "We will also discuss non-GAAP financial measures, which are reconciled to their most directly comparable GAAP financial measures."
+
+================================================================================
+SENTIMENT vs ACTUAL PRICE MOVEMENT VALIDATION
+================================================================================
+
+PREDICTIONS:
+- LLM Sentiment Score: 8/10 (Positive)
+- Sentiment Magnitude: 8.0
+
+ACTUAL RESULTS:
+- Stock Price Change: -10.94% (Down)
+- Pre-Earnings Price: $147.10
+- Post-Earnings Price: $131.01
+
+VALIDATION:
+- Alignment: MISALIGNED ✗
+- Assessment: Sentiment and price moved in opposite directions
+
+ACCURACY ANALYSIS:
+✗ The LLM prediction did not align with market reaction.
+  The model showed positive sentiment but the stock moved down.
+  This could indicate:
+    - Market had already priced in the news
+    - External market factors dominated
+    - Expectations vs reality mismatch
+
+================================================================================

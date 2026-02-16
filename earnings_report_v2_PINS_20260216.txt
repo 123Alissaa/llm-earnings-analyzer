@@ -1,0 +1,55 @@
+
+================================================================================
+EARNINGS CALL ANALYSIS REPORT WITH PRICE VALIDATION
+================================================================================
+Company: Pinterest Inc. (PINS)
+Analysis Date: 2026-02-16 16:42
+================================================================================
+
+OVERALL SENTIMENT: 8/10
+The overall tone of the earnings call is very positive, with the company achieving record high global users and surpassing $1 billion in adjusted EBITDA. The management's confidence in their long-term strategy and plans to double down on multi-year initiatives is also bullish. However, the lack of specific guidance for 2025 introduces some uncertainty.
+
+MANAGEMENT TONE: CONFIDENT
+
+KEY FINANCIAL METRICS:
+- Revenue: $1 billion revenue quarter, 18% revenue growth
+- EPS: Not mentioned
+- Guidance: Not mentioned
+
+RISK FACTORS IDENTIFIED:
+  1. Advertising environment uncertainty
+  2. Competition from other social media platforms
+  3. Regulatory risks
+
+INVESTMENT RECOMMENDATION: BUY
+
+RATIONALE:
+The company's strong user growth, increasing revenue, and improving profitability make it an attractive investment opportunity. The management's focus on personalized and relevant user experience, as well as their efforts to drive performance for advertisers, are likely to drive long-term success. However, investors should be cautious of potential risks and uncertainties in the advertising environment.
+
+KEY MANAGEMENT QUOTES:
+  1. "2024 was a transformative year for Pinterest. We reached record high global users, surpassing 550 million MAUs globally and 100 million in UCAN while more than doubling our full year revenue growth rate from 2023."
+  2. "We've spent the last 2.5 years building a suite of lower funnel tools that captures our users' inherent commercial intent."
+  3. "We'll continue to leverage AI and our unique first-party signal to drive a more personalized and relevant experience for our users."
+
+================================================================================
+SENTIMENT vs ACTUAL PRICE MOVEMENT VALIDATION
+================================================================================
+
+PREDICTIONS:
+- LLM Sentiment Score: 8/10 (Positive)
+- Sentiment Magnitude: 8.0
+
+ACTUAL RESULTS:
+- Stock Price Change: 19.83% (Up)
+- Pre-Earnings Price: $33.08
+- Post-Earnings Price: $39.64
+
+VALIDATION:
+- Alignment: ALIGNED ✓
+- Assessment: Sentiment and price moved in same direction
+
+ACCURACY ANALYSIS:
+✓ The LLM correctly predicted the market direction!
+  The model showed positive sentiment and the stock moved up.
+
+================================================================================
